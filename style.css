@@ -25,6 +25,7 @@ section {
     height: 100vh;
     background-image: url('/intro-to-html/sally-hart/imgs/sally_1.jpg');
     background-size: cover;
+    background-attachment: fixed;
 }
 
 header {
@@ -37,4 +38,32 @@ footer {
     position: fixed;
     bottom: 20px;
     left: 20px;
+}
+
+.img1 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_2.jpg');
+}
+
+.img2 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_3.jpg');
+}
+
+.img3 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_4.jpg');
+}
+
+.img4 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_5.jpg');
+}
+
+.img5 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_6.jpg');
+}
+
+.img6 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_7.jpg');
+}
+
+.img7 {
+    background-image: url('/intro-to-html/sally-hart/imgs/sally_8.jpg');
 }
